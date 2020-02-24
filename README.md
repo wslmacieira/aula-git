@@ -17,11 +17,11 @@ https://git-scm.com/download
 
 - [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 
-- [] Você quer colocar seu projeto na nuvem.
+- [x] Você quer colocar seu projeto na nuvem.
 
-`git init` // inicia a linha do tempo
-`git add` // adiciona ou atualiza mudanças para irem para a linha do tempoo
-`git commit` // adiciona um ponto na linha do tempo
-`git log `// visualiza os pontos na linha do tempo / commit
-`git status` // informa o estado das alterações do nosso projeto
-`git show` // apresenta determinado ponto na história
+* `git init` // inicia a linha do tempo
+* `git add` // adiciona ou atualiza mudanças para irem para a linha do tempoo
+* `git commit` // adiciona um ponto na linha do tempo
+* `git log` // visualiza os pontos na linha do tempo / commit
+* `git status` // informa o estado das alterações do nosso projeto
+* `git show` // apresenta determinado ponto na história
